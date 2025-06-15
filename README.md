@@ -17,7 +17,6 @@ This project showcases a complete **Passive Reconnaissance** exercise on the int
 - `DNS_records.txt` – Collected DNS records
 - `hosts_and_emails.txt` – Discovered hosts & email
 - `zonetransfer_test.txt` – Zone transfer result (legally permitted)
-- `googledork.png` – Search engine exposure screenshot
 
 ## ⚠️ Disclaimer
 
