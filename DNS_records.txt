@@ -1,0 +1,14 @@
+zonetransfer.me.        7200    IN      A       5.196.105.14
+
+zonetransfer.me.        7200    IN      NS      nsztm1.digi.ninja.
+zonetransfer.me.        7200    IN      NS      nsztm2.digi.ninja.
+
+zonetransfer.me.        7200    IN      MX      20 ASPMX3.GOOGLEMAIL.COM.
+zonetransfer.me.        7200    IN      MX      0 ASPMX.L.GOOGLE.COM.
+zonetransfer.me.        7200    IN      MX      20 ASPMX4.GOOGLEMAIL.COM.
+zonetransfer.me.        7200    IN      MX      20 ASPMX5.GOOGLEMAIL.COM.
+zonetransfer.me.        7200    IN      MX      10 ALT1.ASPMX.L.GOOGLE.COM.
+zonetransfer.me.        7200    IN      MX      20 ASPMX2.GOOGLEMAIL.COM.
+zonetransfer.me.        7200    IN      MX      10 ALT2.ASPMX.L.GOOGLE.COM.
+
+

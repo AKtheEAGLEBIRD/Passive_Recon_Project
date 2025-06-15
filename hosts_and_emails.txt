@@ -1,0 +1,20 @@
+[*] Target: zonetransfer.me 
+
+[*] Searching Yahoo. 
+                                                                                                                                                                                              
+[*] No IPs found.                                                                                                                                                                             
+                                                                                                                                                                                              
+[*] Emails found: 1                                                                                                                                                                           
+----------------------                                                                                                                                                                        
+pippa@zonetransfer.me                                                                                                                                                                         
+                                                                                                                                                                                              
+[*] Hosts found: 8                                                                                                                                                                            
+---------------------                                                                                                                                                                         
+canberra-office.zonetransfer.me                                                                                                                                                               
+cmdexec.zonetransfer.me                                                                                                                                                                       
+contact.zonetransfer.me                                                                                                                                                                       
+dc-office.zonetransfer.me                                                                                                                                                                     
+dr.zonetransfer.me                                                                                                                                                                            
+intns1.zonetransfer.me                                                                                                                                                                        
+owa.zonetransfer.me                                                                                                                                                                           
+tcp.zonetransfer.me 
